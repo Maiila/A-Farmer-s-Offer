@@ -11,7 +11,7 @@ body{
 }
 
 section {
-  scroll-margin-top: 120px; /* same as navbar height */
+  scroll-margin-top: 120px; 
 }
 
 
@@ -428,7 +428,7 @@ body{
 }
 
 section {
-  scroll-margin-top: 120px; /* same as navbar height */
+  scroll-margin-top: 120px; 
 }
 
 
@@ -997,9 +997,9 @@ form a {
     }
 
      .vertical-images img {
-    display: block;       /* makes each image start on a new line */
-    margin-bottom: 15px;  /* space between images */
-    max-width: 100%;      /* responsive sizing */
+    display: block;       
+    margin-bottom: 15px;  
+    max-width: 100%;     
     height: auto;
   }
 
